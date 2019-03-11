@@ -1,0 +1,11 @@
+// allow you to take all arguments passed through command line and pass them through here
+{
+    "presets": [
+        "env",
+        "react"
+    ],
+    "plugins": [
+        "transform-class-properties" ,
+        "transform-object-rest-spread"
+    ]
+}
